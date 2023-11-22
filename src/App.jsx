@@ -1,8 +1,8 @@
-import './assets/app.sass'
+import './assets/app.scss'
 
 function App() {
   return (
-    <div className="app">Hello React and Vite with Sass</div>
+    <div className="app">Welcome to my portfolio</div>
   )
 }
 
